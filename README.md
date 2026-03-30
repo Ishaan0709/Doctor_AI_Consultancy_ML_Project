@@ -1,4 +1,3 @@
-=======
 # 🏥 Personalized Doctor AI Agent
 
 An AI-powered medical consultation system that predicts the appropriate medical department based on symptoms and evaluates patient risk using machine learning models.
