@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 =======
 # 🏥 Personalized Doctor AI Agent
 
@@ -87,4 +85,4 @@ git clone https://github.com/your-username/personalized-doctor-ai-agent.git
 cd personalized-doctor-ai-agent
 pip install -r requirements.txt
 streamlit run app.py
->>>>>>> f2e32c7 (updated project files)
+
